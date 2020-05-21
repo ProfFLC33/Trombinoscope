@@ -1,0 +1,62 @@
+
+
+body {
+  font-family: "Calibri", sans-serif;
+  color: #ffffff;
+ 
+}
+/*set the footer style */
+footer {
+	background-color: #98F3D7
+	text-align:center;
+    position: fixed;
+    bottom:0;
+    width:100%;
+    display:inline-block;
+    vertical-align:top;
+    font-size:1.8vw;
+	font:black;
+	}
+
+.container {
+  display: table;
+  padding-top: 80px;
+  width: 100%;
+  font-size:1.8vw;
+  background-color: blue
+ }
+
+#trombi > input
+{
+	background-color: #0C5D44;
+	border:none;
+	color:white;
+	padding:1.8vw 1.8vw;
+	text-align:center;
+	display:inline-block;
+	font-size:1.8vw;
+	
+}
+
+.content {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+table
+{
+	border: 2px solid #0C5D44;
+	border-collapse:collapse;
+	display:inline-table;
+	margin: 10px;
+}
+
+tr,td 
+{
+	border:1px solid;
+	color: #000000;
+	font-size: 1.8vw;
+	background-color : white;
+	
+}
